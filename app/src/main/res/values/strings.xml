@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flag Identifier</string>
+    <string name="usa">United States Of America</string>
+    <string name="nextBtn">Next</string>
+    <string name="canada">Canada</string>
+    <string name="mexico">Mexico</string>
+    <string name="cuba">Cuba</string>
+    <string name="costarica">Costa Rica</string>
+    <string name="prev">Previous </string>
+    <string name="finish">Good Job! Your learning is completed.</string>
+    <string name="home">Home</string>
+</resources>
